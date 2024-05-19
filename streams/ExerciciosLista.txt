@@ -1,0 +1,57 @@
+Lista de Exercícios
+Exercício 1: Números Pares
+Dada uma lista de números inteiros, filtre os números pares e os colecione em uma nova lista.
+
+Exercício 2: Strings com Comprimento Maior que 3
+Dada uma lista de strings, filtre as strings com comprimento maior que 3 e colecione em uma nova lista.
+
+//Exercício 3: Quadrados de Números Ímpares
+Dada uma lista de números inteiros, filtre os números ímpares, eleve-os ao quadrado e colecione os resultados em uma nova lista.
+
+//Exercício 4: Concatenação de Strings
+Dada uma lista de strings, filtre as strings que contêm a letra 'a', transforme todas em maiúsculas e concatene todas em uma única string.
+
+//Exercício 5: Soma de Quadrados
+Dada uma lista de números inteiros, eleve todos ao quadrado e calcule a soma de todos os quadrados.
+
+//Exercício 6: Nomes com "J"
+Dada uma lista de nomes, filtre aqueles que começam com "J" e colecione os nomes filtrados em uma lista.
+
+//Exercício 7: Maior Número Par
+Dada uma lista de números inteiros, encontre o maior número par presente na lista.
+
+//Exercício 8: Agrupamento por Paridade
+Dada uma lista de números inteiros, agrupe-os em dois grupos: números pares e números ímpares.
+
+//Exercício 9: Contagem de Strings com uma Letra Específica
+Dada uma lista de strings, conte quantas strings contêm a letra 'e'.
+
+//Exercício 10: Ordenação de Strings
+Dada uma lista de strings, filtre as strings que têm mais de 4 caracteres, transforme todas em minúsculas e ordene-as alfabeticamente.
+
+//Exercício 12: Média de Idades
+Dada uma lista de objetos Pessoa (com atributos nome e idade), calcule a média de idade das pessoas.
+
+//Exercício 13: Contagem de Palavras
+Dada uma lista de frases, crie um mapa onde a chave é uma palavra e o valor é o número de vezes que essa palavra aparece em todas as frases.
+
+//Exercício 14: Soma Condicional
+Dada uma lista de números inteiros, calcule a soma de todos os números que são múltiplos de 3.
+
+Exercício 15: Concatenação Condicional
+Dada uma lista de strings, filtre as strings que começam com uma letra específica, transforme todas em maiúsculas e concatene todas em uma única string, separando por vírgulas.
+
+Exercício 16: Agrupamento por Primeiro Caracter
+Dada uma lista de strings, agrupe-as por seu primeiro caractere.
+
+Exercício 17: Duplicar e Filtrar
+Dada uma lista de números inteiros, duplique cada número e filtre os resultados que são maiores que 10.
+
+Exercício 18: Filtrar e Contar
+Dada uma lista de números inteiros, filtre os números maiores que 5 e conte quantos números sobraram.
+
+Exercício 19: Coletar para Conjunto
+Dada uma lista de números inteiros, filtre os números pares e colecione-os em um Set.
+
+Exercício 20: Mapear para Outra Lista de Objetos
+Dada uma lista de strings representando nomes, crie uma lista de objetos Pessoa com esses nomes (atribua uma idade fixa de 20 para todos).
